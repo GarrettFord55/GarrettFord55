@@ -32,7 +32,7 @@ A collection of cybersecurity coursework and investigations including:
 - Networking certifications
 
 ➡️ View the full portfolio here  
-[Cybersecurity Portfolio Repository](https://github.com/YOUR_USERNAME/cybersecurity-portfolio)
+[Cybersecurity Portfolio Repository](https://github.com/GarrettFord55/cybersecurity-portfolio)
 
 ---
 
@@ -57,14 +57,6 @@ Digital Forensics • Security Analysis • Network Security
 **Technologies**
 
 Machine Learning • SQL • Networking Infrastructure
-
----
-
-## Portfolio
-
-View my coursework and investigations here:
-
-➡️ [Cybersecurity Portfolio Repository](https://github.com/GarrettFord55/cybersecurity-portfolio)
 
 ---
 
