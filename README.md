@@ -71,3 +71,5 @@ View my coursework and investigations here:
 ## 📫 Connect With Me
 
 GitHub: https://github.com/GarrettFord55
+Email: fords6212005@gmail.com
+LinkedIn: https://www.linkedin.com/in/garrett-ford-263b872b1/
