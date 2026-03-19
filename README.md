@@ -64,7 +64,7 @@ Machine Learning • SQL • Networking Infrastructure
 
 View my coursework and investigations here:
 
-➡️ [Cybersecurity Portfolio Repository](link-to-repo)
+➡️ [Cybersecurity Portfolio Repository](https://github.com/GarrettFord55/cybersecurity-portfolio)
 
 ---
 
