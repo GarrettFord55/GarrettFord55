@@ -1,141 +1,73 @@
-# 🛡️ Cybersecurity Portfolio
-### Garrett Ford  
-Ferris State University – Information Security & Intelligence
+# 🛡️ Garrett Ford
 
-Welcome to my cybersecurity portfolio. This repository contains coursework, investigations, and projects completed during my studies. The work demonstrates experience across multiple cybersecurity disciplines including **digital forensics, networking, artificial intelligence, database security, and Python development.**
+Cybersecurity student at **Ferris State University** studying **Information Security & Intelligence**.
 
----
-
-# 🧠 Artificial Intelligence
-
-Machine learning projects focused on building and evaluating predictive models.
-
-### Skills Demonstrated
-- Data preprocessing and cleaning
-- Model training and evaluation
-- Data analysis and interpretation
-- Machine learning workflow development
-
-### Technologies
-`Python` `Jupyter Notebook` `Machine Learning`
+I am interested in applying cybersecurity techniques across areas such as **digital forensics, artificial intelligence security, and network defense**.
 
 ---
 
-# 🔐 Security+
+## 🔍 Interests
 
-Coursework covering fundamental cybersecurity principles and defensive security practices.
-
-### Topics Covered
-- Threat analysis and mitigation
-- Network security concepts
-- Security architecture and design
-- Risk management
-- Malware and attack techniques
+- 🕵️ Digital Forensics
+- 🤖 AI Security
+- 🌐 Network Defense
+- ⚙️ Security Automation
 
 ---
 
-# 🗄️ Database Security
+## 🚀 Projects
 
-Projects demonstrating relational database design and administration.
+### AI Fake ID Detection System
+A computer vision prototype that analyzes Michigan driver's licenses using OCR and image processing to extract identity data and verify formatting.
 
-### Skills Demonstrated
-- SQL queries and database management
-- Database design and normalization
-- Backup and recovery planning
-- Data integrity and security practices
+Technologies used:
+`Python` `OpenCV` `Tesseract OCR`
 
-### Technologies
-`SQL` `Database Administration`
+### Cybersecurity Portfolio
+A collection of cybersecurity coursework and investigations including:
 
----
+- Digital forensic investigations
+- AI machine learning projects
+- Python security tools
+- Networking certifications
 
-# 🕵️ Digital Forensics
-
-Full forensic investigation reports analyzing digital evidence from simulated incidents.
-
-### Investigations
-- Wes Mantooth Investigation
-- Kreshna Investigation
-
-### Skills Demonstrated
-- Disk imaging with **FTK Imager**
-- Registry and artifact analysis
-- Evidence examination using forensic tools
-- Investigation documentation and reporting
-
-### Additional Forensic Experience
-- PCAP incident response analysis
-- Linux artifact investigation
-- Mobile device forensic analysis
-- Network traffic analysis
-- Memory forensics and malware identification
+➡️ View the full portfolio here  
+[Cybersecurity Portfolio Repository](https://github.com/YOUR_USERNAME/cybersecurity-portfolio)
 
 ---
 
-# 🐍 Python Programming
+## 📜 Certifications
 
-### Certification
-**PCEP – Certified Entry-Level Python Programmer**
-
-Score: **89%**
-
-### Skills Demonstrated
-- Python programming fundamentals
-- Control flow and logic structures
-- Data structures (lists, dictionaries, strings)
-- Functions and exception handling
-- File processing and log analysis
-
-### Projects
-- Log file analysis tool for extracting IP addresses and system events
-- Data parsing and automation scripts
+- **PCEP – Certified Entry-Level Python Programmer**
+- **Cisco Networking Academy – Introduction to Networks**
+- **Cisco Networking Academy – Switching, Routing, and Wireless Essentials**
 
 ---
 
-# 🌐 Networking
+## 🧰 Skills
 
-Cisco Networking Academy coursework focused on networking infrastructure and configuration.
+**Programming**
 
-### Certifications
-- **CCNA: Introduction to Networks**
-- **CCNA: Switching, Routing, and Wireless Essentials**
+Python
 
-### Skills Demonstrated
-- IPv4 / IPv6 addressing
-- VLAN configuration
-- Switching and routing concepts
-- Wireless networking fundamentals
-- Basic network security practices
+**Cybersecurity**
 
----
+Digital Forensics • Security Analysis • Network Security
 
-# 🧪 Project: AI Fake ID Detection (In Progress)
+**Technologies**
 
-A computer vision prototype designed to analyze Michigan driver's licenses and detect potentially fraudulent IDs.
-
-### Technologies
-`Python` `OpenCV` `Tesseract OCR` `NumPy`
-
-### Capabilities
-- Extract ID fields using OCR
-- Detect license numbers and birth dates
-- Validate formatting rules
-- Analyze expiration dates
+Machine Learning • SQL • Networking Infrastructure
 
 ---
 
-# 🛠️ Tools & Technologies
+## Portfolio
 
-| Category | Tools |
-|--------|--------|
-Programming | Python, Jupyter Notebook |
-Digital Forensics | FTK Imager, Forensic Explorer, Axiom |
-Networking | Cisco Networking Tools |
-Database | SQL |
-Operating Systems | Linux, Windows |
+View my coursework and investigations here:
+
+➡️ [Cybersecurity Portfolio Repository](link-to-repo)
 
 ---
 
-# 📚 Summary
+## 📫 Connect With Me
 
-This portfolio represents technical work completed during my studies in Information Security and Intelligence. It demonstrates skills across multiple cybersecurity domains including artificial intelligence, networking, digital forensics, and programming.
+GitHub: https://github.com/GarrettFord55
