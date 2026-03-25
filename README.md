@@ -36,7 +36,7 @@ A collection of cybersecurity coursework and investigations including:
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications and Certificates
 
 - **PCEP – Certified Entry-Level Python Programmer**
 - **Cisco Networking Academy – Introduction to Networks**
